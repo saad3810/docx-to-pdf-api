@@ -10,7 +10,7 @@
     "cors": "^2.8.6",
     "express": "^4.22.1",
     "libreoffice-convert": "^1.8.1",
-    "multer": "^2.0.2",
+    "multer": "^2.1.1",
     "rm": "^0.1.8"
   },
   "devDependencies": {

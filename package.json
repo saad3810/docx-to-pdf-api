@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "cors": "^2.8.6",
-    "express": "^4.22.1",
+    "express": "^4.22.2",
     "libreoffice-convert": "^1.8.1",
     "multer": "^2.0.2",
     "rm": "^0.1.8"
